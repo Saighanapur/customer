@@ -122,7 +122,7 @@
 				 </configuration>
 			</plugin> -->
 		</plugins>
-<!--  <finalName>packersmovers</finalName> -->
+<!--  <finalName>customer</finalName> -->
 	</build>
 
 </project>
